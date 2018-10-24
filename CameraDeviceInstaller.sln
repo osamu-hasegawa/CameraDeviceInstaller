@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CameraDeviceInstaller", "CameraDeviceInstaller\CameraDeviceInstaller.vcxproj", "{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{97FD2F91-4B9C-4D45-833E-82E96CE9E97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Debug|x64.ActiveCfg = Debug|x64
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Debug|x64.Build.0 = Debug|x64
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Debug|x86.Build.0 = Debug|Win32
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Release|x64.ActiveCfg = Release|x64
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Release|x64.Build.0 = Release|x64
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Release|x86.ActiveCfg = Release|Win32
+		{0B6122AB-C6A8-4CD1-9BDC-AA08E347C3DD}.Release|x86.Build.0 = Release|Win32
+		{97FD2F91-4B9C-4D45-833E-82E96CE9E97D}.Debug|x64.ActiveCfg = Debug
+		{97FD2F91-4B9C-4D45-833E-82E96CE9E97D}.Debug|x86.ActiveCfg = Debug
+		{97FD2F91-4B9C-4D45-833E-82E96CE9E97D}.Release|x64.ActiveCfg = Release
+		{97FD2F91-4B9C-4D45-833E-82E96CE9E97D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DBA0EF-5BCC-4009-8A6E-CFD3797F9B47}
+	EndGlobalSection
+EndGlobal
